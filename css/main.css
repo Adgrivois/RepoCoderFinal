@@ -403,7 +403,7 @@ section::before {
     width: 40vh;
     height: 24vh;
     padding: 2em;
-    background-image: url("/images/software.jpeg");
+    background-image: url("../images/software.jpeg");
     background-size: cover;
     -webkit-filter: blur(1px);
     filter: blur(1px);
@@ -1082,7 +1082,7 @@ section::before {
         width: 40vh;
         height: 24vh;
         padding: 2em;
-        background-image: url("/images/software.jpeg");
+        background-image: url("../images/software.jpeg");
         background-size: cover;
         -webkit-filter: blur(1px);
         filter: blur(1px);
